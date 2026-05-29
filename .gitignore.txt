@@ -1,0 +1,22 @@
+# data
+*.sas7bdat
+*.csv
+*.xlsx
+data/
+
+# results
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# system
+Thumbs.db
+
+# env
+venv/
+env/
+.env
